@@ -11,3 +11,4 @@
 |일자|발표주제|발표자|
 |:--:|:--:|:--:|
 |20221103|[Kafka 소개](https://github.com/coding-Poem/Develop_Study/blob/master/%EC%9C%A4%EC%9A%94%EC%84%AD/Kafka/KafkaStudy1%ED%8E%B8.md)|윤요섭|
+|20221113|[발표개요](https://github.com/coding-Poem/Develop_Study/blob/master/%EB%B0%95%EA%B1%B4%EC%9B%90/README.md)|박건원|
