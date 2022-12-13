@@ -6,7 +6,7 @@
 
 발표 주제 : 자유주제
 
-- 어떤 주제를 발표하면 좋을지 모르겠다? => [발표주제리스트.md](https://github.com/coding-Poem/Develop_Study/blob/master/Docs/TopicList/README.md)에서 골라서 발표하기!!
+- 어떤 주제를 발표하면 좋을지 모르겠다? => [발표주제리스트](https://github.com/coding-Poem/Develop_Study/blob/master/Docs/TopicList/README.md)에서 골라서 발표하기!!
 
 ## 발표 일정 및 주제
 
