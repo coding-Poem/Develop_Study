@@ -34,7 +34,7 @@
 
 |발표주제|발표여부|발표요청자|발표자|
 |:--|:--:|:--:|:--:|
-|Collections Framework|Y|윤요섭|윤요섭|
+|Collections Framework|O|윤요섭|윤요섭|
 |Thread|-|윤요섭|-|
 |Stream|-|윤요섭|-|
 
